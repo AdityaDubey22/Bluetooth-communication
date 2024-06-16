@@ -11,8 +11,6 @@ This project involves designing and implementing a two-way communication system 
 5. [Applications](#applications)
 6. [Challenges and Solutions](#challenges-and-solutions)
 7. [Conclusion](#conclusion)
-8. [Code Snippets](#code-snippets)
-9. [Bibliography](#bibliography)
 
 ## Introduction
 The project aims to demonstrate the feasibility of using Arduino and Bluetooth technology for custom wireless communication solutions. It provides an overview of Bluetooth technology and its key features, such as pairing, profiles, low energy, range, and security.
